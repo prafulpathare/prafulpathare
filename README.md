@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Praful's Portfolio Repo
+Visit Praful Pathare's Portfolio right [here](https://prafulpathare.github.io/prafulpathare)
 <!--
 **prafulpathare/prafulpathare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
